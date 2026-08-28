@@ -6,21 +6,20 @@ is:spikey
 not:reprint game:paper
 
 
+currently banned in legacy, that I care about/tracking:
+2026.08.28: 72
+72 = banned:legacy f:vintage (70) + Sticker Goblin (1) + Sharazard (1)
+confirmed this vs wotc website list:
+wotc, 2026.08.28: 73 = 70 'reg' + Sharazard (1) + dexterity (2)
+
 
 Unique (BANNED vintage) - all kinda part of group except Sharazard
-
 Sticker Goblin
 Sharazard
 7 racist (excl w "usd≥0" (when no "not:reprint")
 
 
-currently banned in legacy, that I care about/tracking:
-2026.08.28: 72
-72 = banned:legacy f:vintage (70) + Sticker Goblin (1) + Sharazard (1)
-
-
 t:legend date<all (79):
-
 Adun Oakenshield
 Angus Mackenzie
 Arcades Sabboth
